@@ -1,0 +1,17 @@
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/bin/Debug/net6.0/infra.data.deps.json
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/bin/Debug/net6.0/infra.data.dll
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/bin/Debug/net6.0/infra.data.pdb
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/infra.data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/infra.data.AssemblyInfoInputs.cache
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/infra.data.AssemblyInfo.cs
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/infra.data.csproj.CoreCompileInputs.cache
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/infra.data.dll
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/refint/infra.data.dll
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/infra.data.pdb
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/ref/infra.data.dll
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/bin/Debug/net6.0/infra.data.runtimeconfig.json
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/bin/Debug/net6.0/Domain.dll
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/bin/Debug/net6.0/Domain.pdb
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/infra.data.csproj.AssemblyReference.cache
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/infra.data.csproj.CopyComplete
+/Users/eugeneleroux/RiderProjects/AthenaTemplate/infra.data/obj/Debug/net6.0/infra.data.genruntimeconfig.cache
